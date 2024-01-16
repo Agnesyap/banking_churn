@@ -1,4 +1,4 @@
-This project is aim to propose a model for predicting customer churn effectively in banking via data mining approach. 
+This project aims to propose a model for predicting customer churn effectively in banking via data mining approach. 
 
 Data mining is a process of discovering patterns and relationships in the data points using certain techniques from multiple disciplines. While conducting data mining, a few phases must be involved - problem formulation, data understanding, data pre-processing, data modelling and model evaluation.
 
